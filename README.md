@@ -4,7 +4,7 @@
 ## Features
 - System for agents to mutate and combine attributes
 - Detailed UI
-- Gudetama and Princess Batman characters
+- Gudetama and Princess Batman agents with unique characteristics such as magnetism and projectile launching
 ## Made Using
 - C++
 - Object Oriented Programming
